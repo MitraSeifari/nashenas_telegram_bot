@@ -1,0 +1,18 @@
+{
+    "message_id": 90,
+    "from": {
+        "id": 273365147,
+        "is_bot": false,
+        "first_name": "ArTiM",
+        "username": "Seifarimi",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 273365147,
+        "first_name": "ArTiM",
+        "username": "Seifarimi",
+        "type": "private"
+    },
+    "date": 1641149569,
+    "text": "Mitra"
+}
